@@ -1,0 +1,48 @@
+1. Create github account.
+2. You will get verify email to your email id which is given while creating the github account.
+2. Create new repository in above account.
+
+
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+GitHub essentials like repositories, branches, commits, and pull requests.
+
+
+Step 1. Create a Repository
+A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a README, or a file with information about your project.
+
+
+
+To create a new repository
+
+In the upper right corner, next to your avatar or identicon, click  and then select New repository.
+Name your repository hello-world.
+Write a short description.
+Select Initialize this repository with a README.
+
+
+Step 2. Create a Branch
+Branching is the way to work on different versions of a repository at one time.
+
+By default your repository has one branch named master 
+
+
+To create a new branch
+
+Step 3. Make and commit changes
+Step 4. Open a Pull Request
+Step 5. Merge your Pull Request
+
+1. sudo apt-get install git
+2. git init
+3. git remote add origin https://github.com/xxxxx/sample.git
+4. git remote -v
+5. git pull origin master
+6.  git add README.md  / git add .
+7. git status
+8. git commit -m "Adding readme file"
+9. git reset HEAD file1 to Unstage.
+
+
+
+
