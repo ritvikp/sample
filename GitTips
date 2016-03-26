@@ -44,7 +44,8 @@ Step 5. Merge your Pull Request
 9.  git reset HEAD file1 to Unstage.
 10. git push origin master
 11. ls -al ~/.ssh - Checking for existing SSH keys
-12 
+12. ssh-keygen
+13. 
 
 
 
